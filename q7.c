@@ -95,6 +95,7 @@ void getNextDate (Date input) {
     printf("%d %d %d\n", next_date.month, next_date.day, next_date.year);
 }
 
+/* Comment to test how git works */
 int compareDates (Date date1, Date date2) {
     int output; /* Output of the function */
     
